@@ -9,6 +9,6 @@ dataset/
 __pycache__/
 *.pyc
 
-# Ignore virtual environments (if you ever use them)
+# Ignore virtual environments
 venv/
 env/
