@@ -1,0 +1,14 @@
+# Ignore the generated Machine Learning models
+*.pkl
+
+# Ignore the dataset (it is too heavy for GitHub)
+dataset/
+*.csv
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments (if you ever use them)
+venv/
+env/
